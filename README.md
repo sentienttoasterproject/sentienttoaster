@@ -12,4 +12,4 @@ Simple rock paper scissors guesser with a bit of randomness
 ## reseting the algorithm
 After starting the program push the algorithm button it will also be visible after a round is played
 
-### It's that simple!
+# It's that simple!
